@@ -1,0 +1,8 @@
+Curve,Null_pct,OutOfRange_samples,Spike_events,Washout_pct,Excluded_pct
+GR,0.0,25,21,,0.85
+RHOB,0.0,1,26,,2.6
+NPHI,0.0,159,148,,5.91
+RT,0.0,0,0,,0.0
+RM,0.0,0,6,,0.09
+DT,1.11,15,45,,2.37
+CALI,1.11,5,72,2.05,2.61

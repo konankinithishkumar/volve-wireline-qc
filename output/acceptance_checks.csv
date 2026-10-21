@@ -1,0 +1,8 @@
+Check,Status,Remarks
+"Required curves present (GR, density, neutron, resistivity)",Pass,All four main curves found
+"Regular depth sampling, no logging skips",Pass,nominal step 0.1524 m; 0 gap(s)
+Null values below 5 % on main curves (in logged interval),Pass,worst curve 0.0 % null
+Out-of-range samples below 1 % of interval,Review,185 samples (2.66 %)
+Washout below 10 % of interval,Pass,2.0 % of interval has enlarged hole
+Valid data over HUGIN FM (target) above 90 %,Pass,100 % valid after QC
+Tool calibration records and repeat section,Not available,Not included in the LAS file - request from logging company

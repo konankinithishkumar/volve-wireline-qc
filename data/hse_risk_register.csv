@@ -1,0 +1,7 @@
+Hazard,Activity,Likelihood(1-5),Severity(1-5),Control Measures,Residual Owner
+Radioactive source exposure,Density/neutron source handling,2,5,Source custody log; barricading; shielded transport container; trained handler only,Wireline Specialist
+Dropped object / pinch point,Rig-up and rig-down at rig floor,3,4,Exclusion zone; hard hats; tag lines; communication with driller,Field Engineer
+Cable or tool stuck in hole,Logging run through tight hole,2,4,Monitor head tension; weak-point rating checked; stuck-tool procedure briefed,Field Engineer
+Well control event (kick),Open-hole logging,1,5,Confirm hole fill-up with driller; BOP readiness; stop-work authority,Company Man
+High-pressure or hot surface contact,Lubricator and pressure equipment,2,4,Pressure test records; PPE; flagged hot zones,Wireline Specialist
+Slips / trips / manual handling,Equipment loading and rig-up,4,2,Housekeeping; team lifting; clear walkways,All crew

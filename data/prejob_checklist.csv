@@ -1,0 +1,15 @@
+Category,Item,Status,Remarks
+Tool & Equipment,Tool string identified and serial numbers recorded,Done,GR / Resistivity / Density-Neutron string
+Tool & Equipment,Surface and downhole function tests completed,Done,All sensors responding
+Tool & Equipment,Gamma ray tool calibration certificate valid,Done,Calibration within validity period
+Tool & Equipment,Density-neutron tool calibration verified,Pending,Calibration record not yet sighted
+Tool & Equipment,Cable / wireline unit inspection completed,Done,Head tension and depth encoder checked
+Tool & Equipment,Spares and consumables inventory checked,Done,O-rings and cable heads available
+Documentation,Job program and well data sheet received,Done,
+Documentation,Depth reference (KB/RT elevation) confirmed,Done,
+Documentation,Previous-run log files / offset logs reviewed,Not Done,Not requested from client
+Safety (HSE),Pre-job safety meeting (toolbox talk) held,Done,
+Safety (HSE),Job safety analysis / risk assessment signed,Done,
+Safety (HSE),Radioactive source custody and handling log verified,Pending,Awaiting source handler sign-off
+Safety (HSE),PPE and barricading in place at rig floor,Done,
+Safety (HSE),Emergency response and stop-work authority briefed,Done,

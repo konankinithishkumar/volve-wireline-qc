@@ -1,0 +1,423 @@
+Curve,Issue,Top,Base,Samples,Detail
+CALI,Washout / enlarged hole,3568.19,3569.41,9,caliper up to 13.6 in vs gauge 10.2 in
+DT,Spike,3568.19,3568.34,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,3568.65,3568.8,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3568.65,3568.65,1,"min 0.64 / max 0.64, valid 0.0-0.6"
+CALI,Spike,3568.8,3568.8,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3568.95,3568.95,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3569.1,3569.1,1,"min 0.74 / max 0.74, valid 0.0-0.6"
+DT,Spike,3569.26,3569.26,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3569.41,3569.71,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3569.56,3569.56,1,"min 0.60 / max 0.60, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3569.71,3572.61,20,caliper up to 13.5 in vs gauge 10.3 in
+NPHI,Spike,3569.87,3570.17,3,3 sample(s) deviate > 8 robust sigma
+CALI,Spike,3570.48,3570.48,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3570.78,3570.93,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3570.78,3570.78,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3571.24,3571.24,1,"min 0.81 / max 0.81, valid 0.0-0.6"
+NPHI,Spike,3571.54,3571.7,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3572.0,3572.15,2,"min 0.60 / max 0.76, valid 0.0-0.6"
+CALI,Spike,3572.46,3572.46,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3572.61,3572.61,1,"min 0.71 / max 0.71, valid 0.0-0.6"
+CALI,Spike,3572.76,3572.76,1,1 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3572.91,3573.37,4,caliper up to 12.6 in vs gauge 10.3 in
+CALI,Spike,3573.07,3573.07,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3573.37,3573.37,1,1 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3573.68,3574.44,6,caliper up to 12.1 in vs gauge 10.3 in
+NPHI,Spike,3573.68,3573.68,1,1 sample(s) deviate > 8 robust sigma
+RM,Spike,3573.68,3573.68,1,1 sample(s) deviate > 8 robust sigma
+RM,Spike,3574.44,3574.44,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3574.59,3574.59,1,1 sample(s) deviate > 8 robust sigma
+RM,Spike,3574.9,3574.9,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3575.51,3575.51,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3575.81,3575.81,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3575.96,3576.11,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3576.57,3576.57,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3579.01,3579.01,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3579.16,3579.16,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3579.32,3579.47,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3579.77,3579.77,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3580.08,3580.38,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3580.08,3580.53,4,"min 0.60 / max 0.71, valid 0.0-0.6"
+NPHI,Spike,3580.69,3580.69,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3581.14,3581.14,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3581.3,3581.3,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3581.3,3581.3,1,"min 0.67 / max 0.67, valid 0.0-0.6"
+DT,Spike,3581.6,3581.6,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3581.6,3581.6,1,"min 0.64 / max 0.64, valid 0.0-0.6"
+DT,Spike,3581.91,3582.06,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3581.91,3582.21,3,3 sample(s) deviate > 8 robust sigma
+CALI,Spike,3582.36,3582.52,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3582.36,3582.36,1,"min 0.80 / max 0.80, valid 0.0-0.6"
+NPHI,Out of range,3582.97,3582.97,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+NPHI,Spike,3583.13,3583.13,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3583.43,3583.43,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3583.73,3583.73,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3584.04,3584.04,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3584.65,3584.65,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3585.26,3585.41,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3585.87,3585.87,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3586.48,3586.48,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3587.7,3587.7,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3588.92,3588.92,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3589.98,3589.98,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3591.96,3592.27,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3592.73,3592.73,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3593.03,3593.03,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3593.49,3593.49,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3595.93,3596.08,2,"min 0.68 / max 0.68, valid 0.0-0.6"
+NPHI,Out of range,3596.54,3597.45,7,"min 0.62 / max 0.86, valid 0.0-0.6"
+CALI,Spike,3597.3,3597.3,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3597.3,3597.45,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3597.6,3597.76,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3597.6,3597.91,3,caliper up to 14.1 in vs gauge 10.5 in
+CALI,Spike,3598.06,3598.21,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3598.21,3600.5,16,caliper up to 20.3 in vs gauge 10.4 in
+NPHI,Spike,3598.52,3598.52,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3598.67,3598.82,2,"min 0.60 / max 0.95, valid 0.0-0.6"
+NPHI,Out of range,3599.28,3599.89,5,"min 0.61 / max 0.96, valid 0.0-0.6"
+CALI,Spike,3599.74,3599.89,2,2 sample(s) deviate > 8 robust sigma
+CALI,Out of range,3600.04,3600.35,3,"min 20.19 / max 20.33, valid 4-20"
+NPHI,Out of range,3600.19,3600.19,1,"min 0.71 / max 0.71, valid 0.0-0.6"
+NPHI,Spike,3600.35,3600.35,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3600.5,3600.65,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3600.5,3600.5,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+GR,Spike,3600.65,3600.65,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3600.96,3601.11,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3601.41,3601.57,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3601.57,3601.57,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3601.57,3601.72,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3601.87,3602.63,6,caliper up to 16.3 in vs gauge 10.3 in
+NPHI,Spike,3601.87,3601.87,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3602.02,3602.33,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3602.02,3602.02,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+NPHI,Out of range,3602.33,3602.33,1,"min 0.92 / max 0.92, valid 0.0-0.6"
+CALI,Spike,3602.78,3602.78,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3602.78,3602.78,1,"min 0.60 / max 0.60, valid 0.0-0.6"
+NPHI,Out of range,3603.09,3603.39,3,"min 0.65 / max 0.97, valid 0.0-0.6"
+NPHI,Out of range,3604.16,3604.16,1,"min 0.63 / max 0.63, valid 0.0-0.6"
+NPHI,Spike,3604.77,3604.77,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3605.68,3605.68,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3606.29,3606.44,2,"min 0.65 / max 0.66, valid 0.0-0.6"
+NPHI,Out of range,3607.05,3607.05,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+NPHI,Spike,3607.81,3608.12,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3608.27,3608.58,3,"min 0.76 / max 0.81, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3608.73,3610.71,14,caliper up to 13.3 in vs gauge 10.1 in
+NPHI,Out of range,3608.88,3609.03,2,"min 0.75 / max 1.09, valid 0.0-0.6"
+NPHI,Out of range,3609.34,3609.95,5,"min 0.60 / max 0.99, valid 0.0-0.6"
+CALI,Spike,3609.49,3609.64,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3610.1,3610.1,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3610.4,3610.4,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3610.56,3610.56,1,"min 0.62 / max 0.62, valid 0.0-0.6"
+NPHI,Spike,3610.71,3610.86,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3610.86,3610.86,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3611.01,3611.01,1,"min 0.80 / max 0.80, valid 0.0-0.6"
+CALI,Spike,3611.32,3611.32,1,1 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3611.32,3611.32,1,caliper up to 12.2 in vs gauge 10.0 in
+NPHI,Spike,3611.47,3611.47,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3612.23,3612.23,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3612.84,3612.84,1,"min 0.66 / max 0.66, valid 0.0-0.6"
+NPHI,Spike,3613.0,3613.0,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3613.15,3613.15,1,"min 0.62 / max 0.62, valid 0.0-0.6"
+NPHI,Spike,3613.3,3613.3,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3613.45,3613.45,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3613.61,3613.76,2,"min 0.77 / max 0.77, valid 0.0-0.6"
+CALI,Spike,3613.76,3613.76,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3614.06,3614.06,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3614.06,3614.37,3,"min 0.64 / max 0.87, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3614.21,3615.89,12,caliper up to 14.3 in vs gauge 10.0 in
+CALI,Spike,3614.37,3614.37,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3614.82,3615.28,4,"min 0.64 / max 0.76, valid 0.0-0.6"
+RHOB,Spike,3615.43,3615.59,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3615.59,3615.74,2,"min 0.62 / max 0.72, valid 0.0-0.6"
+NPHI,Spike,3616.04,3616.04,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3616.65,3616.65,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3617.57,3617.72,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3618.63,3618.63,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3618.79,3621.23,17,"min 0.60 / max 1.06, valid 0.0-0.6"
+RHOB,Spike,3618.79,3618.94,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3619.4,3620.01,5,caliper up to 12.8 in vs gauge 9.9 in
+RHOB,Spike,3620.16,3620.31,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3620.46,3622.9,17,caliper up to 20.3 in vs gauge 9.9 in
+RHOB,Spike,3620.77,3620.77,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3621.07,3621.23,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3621.53,3622.6,8,"min 0.60 / max 1.46, valid 0.0-0.6"
+CALI,Spike,3621.68,3621.83,2,2 sample(s) deviate > 8 robust sigma
+CALI,Out of range,3621.99,3622.14,2,"min 20.08 / max 20.29, valid 4-20"
+CALI,Spike,3622.75,3622.75,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3622.75,3622.75,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3628.69,3628.69,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3631.44,3631.44,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3632.81,3632.81,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3633.72,3633.72,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3634.03,3634.33,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3634.03,3634.03,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3634.33,3634.33,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3634.33,3634.33,1,"min 0.91 / max 0.91, valid 0.0-0.6"
+NPHI,Spike,3634.64,3634.64,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3635.25,3635.4,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3640.73,3640.73,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3640.88,3640.88,1,"min 0.77 / max 0.77, valid 0.0-0.6"
+CALI,Spike,3641.04,3641.04,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3641.04,3641.04,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3641.49,3641.8,3,3 sample(s) deviate > 8 robust sigma
+CALI,Spike,3642.26,3642.41,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3642.26,3642.41,2,caliper up to 11.6 in vs gauge 9.0 in
+NPHI,Spike,3642.56,3642.56,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3642.71,3642.71,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3642.71,3642.71,1,"min 0.62 / max 0.62, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3642.87,3644.39,11,caliper up to 12.8 in vs gauge 9.0 in
+CALI,Spike,3643.02,3643.02,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3643.32,3643.32,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3643.93,3644.24,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3644.09,3644.09,1,"min 0.62 / max 0.62, valid 0.0-0.6"
+RHOB,Spike,3644.09,3644.09,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3644.24,3644.39,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3644.54,3644.69,2,2 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,3644.69,3645.61,7,caliper up to 13.9 in vs gauge 9.0 in
+NPHI,Out of range,3644.69,3644.69,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+CALI,Spike,3645.0,3645.15,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3645.15,3645.15,1,"min 0.79 / max 0.79, valid 0.0-0.6"
+NPHI,Spike,3645.46,3645.61,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3646.52,3646.52,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3647.13,3647.13,1,"min 0.67 / max 0.67, valid 0.0-0.6"
+NPHI,Spike,3647.59,3647.74,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3648.2,3648.35,2,"min 0.70 / max 0.77, valid 0.0-0.6"
+RHOB,Spike,3648.35,3648.35,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3648.5,3648.5,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3648.66,3648.66,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3648.81,3648.96,2,caliper up to 11.9 in vs gauge 9.0 in
+NPHI,Spike,3650.18,3650.49,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3650.79,3650.79,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3652.31,3652.31,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3652.77,3652.77,1,"min 0.65 / max 0.65, valid 0.0-0.6"
+NPHI,Out of range,3653.08,3653.53,4,"min 0.63 / max 0.74, valid 0.0-0.6"
+NPHI,Spike,3653.69,3653.84,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3654.6,3654.75,2,"min 0.63 / max 0.64, valid 0.0-0.6"
+CALI,Spike,3654.75,3654.91,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3655.06,3655.21,2,"min 0.62 / max 0.65, valid 0.0-0.6"
+NPHI,Spike,3657.34,3657.34,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3661.46,3661.46,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3661.76,3661.76,1,"min 0.67 / max 0.67, valid 0.0-0.6"
+NPHI,Spike,3662.53,3662.53,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3662.68,3662.83,2,"min 0.62 / max 0.80, valid 0.0-0.6"
+NPHI,Out of range,3663.14,3663.14,1,"min 0.62 / max 0.62, valid 0.0-0.6"
+NPHI,Out of range,3663.59,3663.59,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+DT,Spike,3663.9,3664.05,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3663.9,3663.9,1,"min 0.67 / max 0.67, valid 0.0-0.6"
+NPHI,Spike,3665.88,3665.88,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3666.03,3666.03,1,"min 0.90 / max 0.90, valid 0.0-0.6"
+NPHI,Spike,3666.18,3666.18,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3666.49,3666.64,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3666.95,3666.95,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3667.4,3667.4,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3667.71,3667.71,1,"min 0.63 / max 0.63, valid 0.0-0.6"
+NPHI,Out of range,3668.01,3668.01,1,"min 0.60 / max 0.60, valid 0.0-0.6"
+NPHI,Spike,3668.62,3668.62,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3668.93,3668.93,1,"min 0.93 / max 0.93, valid 0.0-0.6"
+NPHI,Spike,3669.08,3669.08,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3670.76,3670.76,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3673.19,3673.35,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,3673.65,3673.65,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3674.72,3674.72,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3675.02,3675.02,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3675.17,3675.17,1,"min 0.63 / max 0.63, valid 0.0-0.6"
+NPHI,Spike,3675.33,3675.33,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3675.78,3675.94,2,2 sample(s) deviate > 8 robust sigma
+GR,Spike,3678.22,3678.53,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3678.53,3678.53,1,"min 0.69 / max 0.69, valid 0.0-0.6"
+NPHI,Spike,3698.95,3699.1,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3701.08,3701.08,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3701.24,3701.24,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3701.39,3702.15,6,caliper up to 13.1 in vs gauge 9.2 in
+NPHI,Spike,3701.39,3701.39,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3701.54,3701.54,1,"min 0.67 / max 0.67, valid 0.0-0.6"
+CALI,Spike,3702.0,3702.0,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3702.0,3702.0,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3702.15,3702.3,2,"min 0.65 / max 0.68, valid 0.0-0.6"
+CALI,Washout / enlarged hole,3702.45,3702.45,1,caliper up to 10.7 in vs gauge 9.2 in
+NPHI,Spike,3702.45,3702.45,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3703.06,3703.06,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3703.22,3703.22,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+NPHI,Spike,3703.37,3703.52,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3703.67,3703.67,1,"min 0.61 / max 0.61, valid 0.0-0.6"
+NPHI,Spike,3704.28,3704.44,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3704.74,3704.74,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3705.05,3705.2,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,3705.2,3705.35,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3706.87,3707.18,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3707.79,3707.79,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3709.92,3709.92,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3712.82,3712.82,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3714.49,3714.49,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3719.68,3719.68,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3721.35,3721.35,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3722.88,3722.88,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3731.26,3731.26,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3734.92,3734.92,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3735.22,3735.22,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3737.81,3737.81,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3738.12,3738.12,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3739.18,3739.18,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3739.94,3739.94,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3740.55,3740.55,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3741.32,3741.32,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3741.47,3741.47,1,"min 0.67 / max 0.67, valid 0.0-0.6"
+NPHI,Spike,3741.62,3741.77,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3742.99,3742.99,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3743.45,3743.6,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3744.06,3744.21,2,"min 0.67 / max 0.67, valid 0.0-0.6"
+CALI,Spike,3744.67,3744.67,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3744.67,3744.67,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3745.13,3745.13,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3745.89,3745.89,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3746.8,3746.96,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3747.11,3747.11,1,"min 0.60 / max 0.60, valid 0.0-0.6"
+NPHI,Spike,3747.26,3747.56,3,3 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3747.56,3747.72,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,3747.72,3747.72,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3749.85,3749.85,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3750.61,3750.77,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3751.53,3751.68,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3752.9,3752.9,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3753.2,3753.2,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Out of range,3753.66,3753.66,1,"min 0.72 / max 0.72, valid 0.0-0.6"
+NPHI,Spike,3753.81,3753.81,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3756.4,3756.56,2,2 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3756.56,3756.56,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3761.43,3761.59,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3763.11,3763.11,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3768.14,3768.29,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3771.8,3771.8,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3775.15,3775.15,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3779.11,3779.11,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3780.33,3780.33,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3791.76,3791.76,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3805.17,3805.32,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3805.17,3805.17,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3805.63,3805.63,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3806.09,3806.24,2,2 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3806.85,3806.85,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3809.29,3809.29,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3811.88,3811.88,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3813.25,3813.25,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3815.69,3815.69,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3818.58,3818.58,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3819.8,3819.95,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,3821.48,3821.63,2,2 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3824.83,3824.83,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3845.25,3845.41,2,2 sample(s) deviate > 8 robust sigma
+RHOB,Spike,3851.81,3851.81,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3877.56,3877.56,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3880.76,3880.76,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3883.35,3883.35,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3883.81,3883.81,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3885.18,3885.33,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3885.64,3885.79,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3886.1,3886.1,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3887.16,3887.16,1,1 sample(s) deviate > 8 robust sigma
+RM,Spike,3887.16,3887.16,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3887.62,3887.62,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3889.14,3889.14,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3890.06,3890.06,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3891.28,3891.28,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3892.34,3892.34,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3899.2,3899.2,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3900.73,3900.88,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3901.79,3901.79,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3902.1,3902.1,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3903.47,3903.47,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3903.93,3904.08,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3907.89,3907.89,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3908.35,3908.35,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3908.8,3908.8,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3910.63,3910.63,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3910.94,3910.94,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,3915.81,3916.12,3,3 sample(s) deviate > 8 robust sigma
+CALI,Spike,3924.35,3924.35,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3929.38,3929.53,2,2 sample(s) deviate > 8 robust sigma
+CALI,Spike,3930.75,3930.75,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3934.41,3934.41,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3942.64,3942.64,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,3948.12,3948.12,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,3977.54,3977.54,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4016.7,4016.7,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4022.34,4022.34,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4132.53,4132.68,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,4140.45,4140.6,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,4147.61,4147.61,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4150.36,4150.66,3,3 sample(s) deviate > 8 robust sigma
+GR,Spike,4184.65,4184.65,1,1 sample(s) deviate > 8 robust sigma
+CALI,Spike,4186.93,4186.93,1,1 sample(s) deviate > 8 robust sigma
+CALI,Washout / enlarged hole,4186.93,4186.93,1,caliper up to 11.6 in vs gauge 9.3 in
+NPHI,Spike,4186.93,4187.24,3,3 sample(s) deviate > 8 robust sigma
+GR,Spike,4187.24,4187.39,2,2 sample(s) deviate > 8 robust sigma
+GR,Spike,4220.77,4220.77,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4233.26,4233.26,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4289.65,4289.96,3,3 sample(s) deviate > 8 robust sigma
+GR,Spike,4304.43,4304.74,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4304.59,4304.74,2,2 sample(s) deviate > 8 robust sigma
+GR,Out of range,4304.89,4306.87,14,"min 254.22 / max 295.72, valid 0-250"
+NPHI,Out of range,4305.04,4305.81,6,"min 0.65 / max 0.86, valid 0.0-0.6"
+NPHI,Out of range,4306.26,4308.55,16,"min 0.60 / max 0.83, valid 0.0-0.6"
+GR,Spike,4307.63,4307.63,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4307.94,4307.94,1,1 sample(s) deviate > 8 robust sigma
+GR,Out of range,4308.09,4308.85,6,"min 255.94 / max 263.99, valid 0-250"
+NPHI,Out of range,4309.01,4309.16,2,"min 0.68 / max 0.70, valid 0.0-0.6"
+GR,Out of range,4309.16,4309.77,5,"min 270.49 / max 304.33, valid 0-250"
+RHOB,Spike,4309.46,4309.77,3,3 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4309.62,4309.62,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4309.92,4310.07,2,2 sample(s) deviate > 8 robust sigma
+RM,Spike,4310.84,4310.84,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4312.36,4312.36,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4315.56,4315.56,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Out of range,4315.71,4315.71,1,"min 3.00 / max 3.00, valid 1.8-3.0"
+RHOB,Spike,4315.86,4316.17,3,3 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4322.72,4322.72,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4340.86,4340.86,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4344.36,4344.36,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4349.39,4349.39,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4368.29,4368.29,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4378.65,4378.96,3,3 sample(s) deviate > 8 robust sigma
+GR,Spike,4380.63,4380.63,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4401.51,4401.51,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4409.29,4409.29,1,1 sample(s) deviate > 8 robust sigma
+RM,Spike,4410.35,4410.35,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4417.52,4417.67,2,2 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4424.07,4424.22,2,2 sample(s) deviate > 8 robust sigma
+GR,Spike,4431.99,4431.99,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4446.17,4446.17,1,1 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4446.17,4446.32,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,4446.32,4446.47,2,2 sample(s) deviate > 8 robust sigma
+GR,Spike,4449.21,4449.37,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4449.37,4449.37,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4451.65,4451.65,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4459.43,4459.73,3,3 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4460.19,4460.19,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4462.47,4462.47,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4469.03,4469.03,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4478.17,4478.32,2,2 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4481.83,4481.83,1,1 sample(s) deviate > 8 robust sigma
+NPHI,Spike,4482.13,4482.13,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4488.38,4488.38,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4490.06,4490.36,3,3 sample(s) deviate > 8 robust sigma
+DT,Out of range,4491.12,4491.58,4,"min 1.03 / max 21.48, valid 40-200"
+DT,Out of range,4492.19,4492.95,6,"min 13.50 / max 37.66, valid 40-200"
+DT,Out of range,4494.48,4494.78,3,"min 25.88 / max 31.78, valid 40-200"
+DT,Spike,4495.54,4495.54,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4502.1,4502.4,3,3 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4502.4,4502.55,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,4502.86,4502.86,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4518.1,4518.25,2,2 sample(s) deviate > 8 robust sigma
+RHOB,Spike,4518.25,4518.25,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4527.24,4527.24,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4541.72,4541.72,1,1 sample(s) deviate > 8 robust sigma
+GR,Spike,4563.06,4563.21,2,2 sample(s) deviate > 8 robust sigma
+DT,Spike,4568.85,4568.85,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4571.9,4571.9,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4589.27,4589.27,1,1 sample(s) deviate > 8 robust sigma
+DT,Spike,4593.38,4593.38,1,1 sample(s) deviate > 8 robust sigma
+DT,Out of range,4593.54,4593.69,2,"min 39.62 / max 39.91, valid 40-200"
+DT,Spike,4593.84,4593.84,1,1 sample(s) deviate > 8 robust sigma
+CALI,Missing / null,4618.07,4629.66,77,77 null samples
+DT,Missing / null,4618.07,4629.66,77,77 null samples
